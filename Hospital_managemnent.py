@@ -1,6 +1,6 @@
 
 from pymysql import *
-a=connect('localhost','root','Salsabeel@70','Hospital')
+a=connect('localhost','root','Salsabeelkhan123','Hospital')
 b=a.cursor()
 
 
